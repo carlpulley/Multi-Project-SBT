@@ -1,3 +1,6 @@
+// edit 1
+// edit 2
+// remote edit 1
 import sbt._
 import Keys._
 
