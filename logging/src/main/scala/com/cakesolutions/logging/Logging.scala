@@ -9,7 +9,7 @@ import akka.actor.ActorLogging
  * Trait to add specialised logging to Actors
  */
 trait Logging extends Actor with ActorLogging with ExceptionLogging {
-
+// special changes for this
   /**
    * We log when the actor has started
    */
